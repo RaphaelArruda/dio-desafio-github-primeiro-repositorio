@@ -1,1 +1,4 @@
 Git Add . (adiciona tudo)
+Git Commit -m (Inclui texto)
+Git push origin main (envia todos os comits para nuvem)
+Git add . atualizar adicionar)
